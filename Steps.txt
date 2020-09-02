@@ -1,0 +1,6 @@
+Draw a straight line that is x cm in length.
+From the clockwise direction draw an angle of 135 degrees and draw another straight line of the same length
+From the clockwise direction, draw another angle of 45 degrees and draw another straight line of the same length
+From the clockwise direction draw an angle of 135 degrees and draw another straight line of the same length
+Adjust your ruler by 36 degrees
+Repeat steps 1-5 10 times
